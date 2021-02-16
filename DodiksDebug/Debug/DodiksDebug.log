@@ -1,0 +1,5 @@
+﻿  DodiksDebug.cpp
+C:\Users\musae\source\repos\DodiksDebug\DodiksDebug\DodiksDebug.cpp(114,28): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\musae\source\repos\DodiksDebug\DodiksDebug\DodiksDebug.cpp(116,15): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\musae\source\repos\DodiksDebug\DodiksDebug\DodiksDebug.cpp(116,14): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+  DodiksDebug.vcxproj -> C:\Users\musae\source\repos\HereWhereCppStarts\Debug\DodiksDebug.exe
